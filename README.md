@@ -3,7 +3,7 @@
 <div align="center">
 
 <p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=42&pause=1000&color=7779FFE4&center=true&vCenter=true&width=330&height=70&lines=Common+Languages" alt="Typing SVG" /></a> 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=42&pause=1000&color=7779FFE4&center=true&vCenter=true&width=350&height=70&lines=Common+Languages" alt="Typing SVG" /></a> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Lua"  alt="Lua" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML"  alt="HTML" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS"  alt="CSS" width="70" height="70"/>&nbsp;
