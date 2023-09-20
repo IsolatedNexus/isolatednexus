@@ -1,6 +1,6 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NexusDivide&theme=dark&card_width=1080&background=35%2C000000%2C8C65A450&ring=8380EBD3&fire=D0E7EB&currStreakNum=D0EBEB&currStreakLabel=9D90FFD5&border=EBEBEB51)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=NexusDivide&theme=react&height=300&line=8380EBD3&point=D0E7EB)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NexusDivide)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
