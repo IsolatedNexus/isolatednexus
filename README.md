@@ -5,7 +5,6 @@
 ---
 
 <p>
-  <a href="https://discordapp.com/users/1038878926363177103"><img width="40%" align="top" src="https://discord.c99.nl/widget/theme-1/1038878926363177103.png"/></a>
   <img src="https://discordapp.com/api/guilds/1058408688727117896/widget.png?style=banner2" alt="Discord Banner 2" allowtransparency="true" />
 </p>
 
