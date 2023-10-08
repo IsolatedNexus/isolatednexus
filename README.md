@@ -1,4 +1,3 @@
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NexusDivide&theme=dark&card_width=1080&background=35%2C000000%2C8C65A450&ring=8380EBD3&fire=D0E7EB&currStreakNum=D0EBEB&currStreakLabel=9D90FFD5&border=EBEBEB51)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NexusDivide&theme=highcontrast&hide_border=true&border_radius=14.3&card_width=950&background=000000&ring=A0A0A0&fire=D31E6B&currStreakLabel=D31E6B&dates=C18CAA)](https://git.io/streak-stats)
 </div>
 
