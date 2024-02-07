@@ -1,1 +1,1 @@
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=isolatednexus&theme=highcontrast&hide_border=true&border_radius=14.3&card_width=950&background=000000&ring=A0A0A0&fire=D31E6B&currStreakLabel=D31E6B&dates=C18CAA)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=IsolatedNexus&theme=transparent&card_width=950&fire=A81D6A&currStreakNum=EBC6D1&ring=CB7558&currStreakLabel=A81D6A&dates=EBD0C4&sideNums=A81D6A&sideLabels=CB7558)](https://git.io/streak-stats)
