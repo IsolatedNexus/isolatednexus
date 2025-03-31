@@ -19,7 +19,6 @@ I'm a **Freelance Wannabe Developer** with a passion for learning as much as pos
     <img src="https://img.shields.io/badge/C-276DC3?style=for-the-badge&logo=c&logoColor=white" />
     <!-- Frameworks & Libraries -->
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-    <img src="https://img.shields.io/badge/Apache%20Airflow-017C75?style=for-the-badge&logo=apache-airflow&logoColor=white" />
     <!-- Databases & Cloud -->
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     <!-- Tools & Platforms -->
