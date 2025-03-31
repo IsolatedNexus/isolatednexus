@@ -35,4 +35,8 @@ I'm a **Freelance Wannabe Developer** with a passion for learning as much as pos
     <img src="https://github-readme-stats.vercel.app/api?username=IsolatedNexus&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="IsolatedNexus's Stats" height="165">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsolatedNexus&theme=tokyonight&hide_border=true" alt="IsolatedNexus's Streak" height="165">
   </p>
+    <p align="center">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isolatednexus&theme=tokyonight">
+    </p>
 </div>
+
