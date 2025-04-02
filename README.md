@@ -9,22 +9,17 @@ I'm a **Freelance Wannabe Developer** with a passion for learning as much as pos
 - 💼 Interested in working together? Reach out to me via <a href="https://discordapp.com/users/1168385562403684415">discord.</a>
 
 </div>
+
 <div class="badges">
-<p align="center">
-    <!-- Programming Languages -->
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/Lua-777BB4?style=for-the-badge&logo=lua&logoColor=white" />
-    <img src="https://img.shields.io/badge/C-276DC3?style=for-the-badge&logo=c&logoColor=white" />
-    <!-- Frameworks & Libraries -->
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-    <!-- Databases & Cloud -->
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    <!-- Tools & Platforms -->
-    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
-</p>
+    <p align="center">
+      <a href="https://skillicons.dev">
+              <img src="https://skillicons.dev/icons?i=git,c,lua,html,css,py,js" />
+              <img src="https://static.vecteezy.com/system/resources/thumbnails/021/508/536/small/white-star-shotting-star-transparent-bokeh-stars-free-free-png.png" height="50" width="30"/>
+              <img src="https://skillicons.dev/icons?i=github,unreal,vscode" />
+          <img src="https://static.vecteezy.com/system/resources/thumbnails/021/508/536/small/white-star-shotting-star-transparent-bokeh-stars-free-free-png.png" height="50" width="30"/>
+              <img src="https://skillicons.dev/icons?i=discord,linkedin,notion,gcp" />
+      </a>
+    </p>
 </div>
 
 ## 📈 My GitHub stats
