@@ -4,7 +4,7 @@
 
 <div class="github-intro">
 
-I'm a **Freelance Wannabe Developer** with a passion for learning as much as possible and bringing ideas to life. I am perpetually stuck to my keyboard and have an addicition to coffee and books.
+I'm a **Freelance Developer** with a passion for learning as much as possible and bringing ideas to life. I am perpetually stuck to my keyboard and have an addicition to coffee and books.
 
 - 💼 Interested in working together? Reach out to me via <a href="https://discordapp.com/users/1168385562403684415">discord.</a>
 
