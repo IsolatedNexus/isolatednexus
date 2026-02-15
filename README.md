@@ -17,7 +17,7 @@ I'm a **Freelance Developer** with a passion for learning as much as possible an
               <img src="https://static.vecteezy.com/system/resources/thumbnails/021/508/536/small/white-star-shotting-star-transparent-bokeh-stars-free-free-png.png" height="50" width="30"/>
               <img src="https://skillicons.dev/icons?i=github,unreal,vscode" />
           <img src="https://static.vecteezy.com/system/resources/thumbnails/021/508/536/small/white-star-shotting-star-transparent-bokeh-stars-free-free-png.png" height="50" width="30"/>
-              <img src="https://skillicons.dev/icons?i=discord,linkedin,notion,gcp" />
+              <img src="https://skillicons.dev/icons?i=discord,obsidian,notion,gcp" />
       </a>
     </p>
 </div>
